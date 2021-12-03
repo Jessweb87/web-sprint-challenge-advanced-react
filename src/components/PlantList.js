@@ -24,7 +24,7 @@ export default class PlantList extends Component {
   componentWillUnmount() {
     this._isMounted = false;
   }
-www
+
   /*********  DON'T CHANGE ANYTHING IN THE RENDER FUNCTION *********/
   render() {
     return (
